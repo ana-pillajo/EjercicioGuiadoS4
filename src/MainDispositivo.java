@@ -8,3 +8,4 @@ public class MainDispositivo {
         System.out.println(Dispositivo.getTCantidadDis());
     }
 }
+
